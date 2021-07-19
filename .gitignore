@@ -1,0 +1,15 @@
+# package directories
+node_modules
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# Dev specific env file
+.env
+
+# Tyrion specific report files
+tyrion_report.csv
+tyrion_report.html
